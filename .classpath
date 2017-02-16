@@ -21,5 +21,6 @@
 	<classpathentry kind="lib" path="C:/Users/Open/Desktop/Hassan/environnement/hibernatejar/log4j-1.2.11.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Open/Desktop/Hassan/environnement/hibernatejar/xerces-2.6.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Open/Desktop/Hassan/environnement/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Open/Desktop/Hassan/environnement/mysql-connector-java-5.1.40/mysql-connector-java-5.1.40-bin.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
